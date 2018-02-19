@@ -1,6 +1,11 @@
+# Introduction to grammar
+
 Now you will be introduced to some basic aspects of Icelandic grammar.
 You do not need to memorize these for now, but you do need to be aware of them.
-2.1. Gender
+
+
+## Gender
+
 In many European languages such as French, German, and Russian, words have a gender.
 Gender is an important aspect of the Icelandic language, where all nouns are
 he 👨🏻, she 👩🏼, or it 👶🏼.
@@ -8,21 +13,13 @@ he 👨🏻, she 👩🏼, or it 👶🏼.
 But why do the words have gender? The answer to that question isn't really known, they just do. The gender of a word affects other words in a sentence, such as adjectives and pronouns. We will see some examples shortly.
 
 Have a look at some words of different genders:
-He – Male
-She – Female
-It – Neuter
-maður (man)
-fótur (foot)
-stóll (chair)
-köttur (cat)
-kona (woman)
-tunga (tongue)
-mjólk (milk)
-peysa (sweater)
-barn (child)
-gras (grass)
-hús (house)
-ljós (light)
+
+| He – Male | She – Female | It – Neuter |
+| --- | --- | --- |
+| maður (man) | fótur (foot) | stóll (chair) |
+| köttur (cat) | kona (woman) | tunga (tongue) |
+| mjólk (milk) | peysa (sweater) | barn (child) |
+| gras (grass) | hús (house) | ljós (light) |
 
 Sadly for you, it's not really possible to know a word's gender just by looking at it. Sometimes it is. Most words ending in -ur or in a double consonant (-ll, -nn) will be masculine, for example. And most words ending in -ing and -un are feminine. But don't be stressed – you will slowly learn them by seeing how they're used. Slowly you will start recognizing the patterns and then you don't even need to think about gender – you just know.
 
@@ -30,7 +27,11 @@ See the effect a word's gender has on the rest of the sentence:
 Hvað er kötturinn {kk} þinn {kk} gamall {kk}? How old is your cat?
 Hvað er peysan {kvk} þín {kvk} gömul {kvk}? How old is your sweater?
 Hvað er húsið {hk} þitt {hk} gamalt {hk}? How old is your house?
-2.2. The "the"
+
+
+
+## The "the"
+
 Have a look at these sentences:
 I bought a new car.
 Mary is an American.
@@ -122,7 +123,11 @@ Houses
 
 
 You do not need to memorize these endings for now. We just want to show you how the definite article changes with gender and with different cases.
-2.3. Cases
+
+
+
+## Cases
+
 Words can change depending on what's happening to them. English no longer has cases, except for some pronouns like "he". Notice how the word "he" can change depending on what's happening to it:
 He is my brother.
 I like him.
