@@ -16,9 +16,7 @@ But then, the command *(come!)* started to merge with the person being given the
 
 ---
 
-### How to give orders in Icelandic
-
-#### Ordering one person
+## Ordering one person
 
 To give orders to **one** person you can either:
 
@@ -53,7 +51,7 @@ As you can see, the verbs are **longer** if they choose option 2. To know wich o
 
 As you see, if words are **long** in the `past tense` (they end in `-aði`) they are also **long** when giving orders.
 
-#### Ordering multiple people
+## Ordering multiple people
 
 <!-- Note: Þetta ætti að koma miklu seinna í kennslunni -->
 
@@ -74,3 +72,29 @@ Of course, irregularities do exist:
 | Verb | Normal sentence | 👮 Order! (option 1) | 👮 Order! (option 2) |
 | --- | --- | --- | --- |
 | að vera | **Þið eruð** mjög hávaxnir. | **Verið þið** tilbúnir! | **Verið** tilbúnir! |
+
+
+
+<!--
+
+Ohh, kemur í ljós að þetta er alls ekki jafn einfalt og ég hélt.
+T.d.:
+Ekki gera þetta!
+Gerðu þetta ekki!
+Þú mátt ekki borða þetta.
+Ekki borða þetta!
+
+
+## Giving orders to *not* do something
+
+These complicated rules above only apply when you're giving orders to **do** something.
+
+When giving orders to **not do** something, things are easier, you just add an `ekki` *(not)* before them. `Ekki` means "not" or "do not". 
+
+It's the same whether you're speaking to one or many people.
+
+| Do | Don't |
+| --- | --- |
+| **Borðaðu** grænmetið þitt! | **Ekki borða** nammið! |
+
+-->
