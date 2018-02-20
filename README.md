@@ -36,5 +36,3 @@ Use `<!-- Note: blabla -->` or  `<!-- Todo: blabla -->` to add coments to your w
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-You are free to use, redristribute, and build upon this project as you wish, as long as you attribute us.
