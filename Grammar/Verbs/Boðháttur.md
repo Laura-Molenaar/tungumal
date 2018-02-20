@@ -23,19 +23,24 @@ But then, the command *(come!)* started to merge with the person being given the
 To give orders to **one** person you can either:
 
 1. Remove the `-a` ending and add a **`-ðu`/`-du`/`-tu`**
-	- `að vera`  → `ver þú` → **`vertu!`** *[be!]*
-	- `að hlaupa`  → `hlaup þú` → **`hlauptu!`** *[run!]*
-	- `að koma`  → `kom þú` → **`komdu!`** *[come!]*
-	- `að segja`  → `seg þú` → **`segðu!`** *[say!]*
-	- `að fara`  → `far þú` → **`farðu!`** *[go!]*
-2. Just add a **`-ðu`/`-du`/`-tu`**
-	- `að tala`  → `tala þú` → **`talaðu!`** *[speak!]*
-	- `að borða`  → `borða þú` → **`borðaðu!`** *[eat!]*
-	- `að hoppa`  → `hoppa þú` → **`hoppaðu!`** *[jump!]*
-	- `að elska`  → `elska þú` → **`elskaðu!`** *[love!]*
+<pre>
+`að vera`   →  `ver þú`    →  **`vertu!`**   *[be!]*
+`að hlaupa` →  `hlaup þú`  →  **`hlauptu!`** *[run!]*
+`að koma`   →  `kom þú`    →  **`komdu!`**   *[come!]*
+`að segja`  →  `seg þú`    →  **`segðu!`**   *[say!]*
+`að fara`   →  `far þú`    →  **`farðu!`**   *[go!]*
+</pre>
+2. Just add a **`-ðu`**
+<pre>
+`að tala`   →  `tala þú`   →  **`talaðu!`**  *[speak!]*
+`að borða`  →  `borða þú`  →  **`borðaðu!`** *[eat!]*
+`að hoppa`  →  `hoppa þú`  →  **`hoppaðu!`** *[jump!]*
+`að elska`  →  `elska þú`  →  **`elskaðu!`** *[love!]*
+</pre>
 3. (But of course there exist some rare exceptions)
-	- `að ganga`  → `gakk þú` → **`gakktu!`** *[walk!]*
-
+<pre>
+`að ganga`  → `gakk þú`   → **`gakktu!`**  *[walk!]*
+</pre>
 
 As you can see, the verbs are **longer** if they choose option 2. To know wich option to pick, look at how the verbs behave in `past singular first person`:
 
