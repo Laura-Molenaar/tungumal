@@ -21,6 +21,8 @@ In addition to the markdown changes, these will be added later:
 - **`{kk}` `{kvk}` `{hk}`** will be converted to the emojis 👨🏻👩🏼👶🏼
 - **`{nf}` `{þf}` `{þgf}` `{ef}`** will be converted to the emojis 🙂😥🎁🤑
 
+Use `<!-- Note: blabla -->` or  `<!-- Todo: blabla -->` to add coments to your writing.
+
 ## Contributing
 
 - Anybody can add articles and edit texts.

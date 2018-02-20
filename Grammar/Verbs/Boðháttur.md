@@ -1,4 +1,4 @@
-# Giving orders – Boðháttur
+# 👮 Giving orders – Boðháttur
 Giving orders in Icelandic can look a bit odd at first. To understand why it looks like this we need to see how it used to look.
 
 Orders used to be given just like in English:
@@ -7,7 +7,7 @@ Orders used to be given just like in English:
 | --- | --- |
 | Hey boys, **come** here! | Hei strákar, **kom** hingað! |
 
-But then, the command *(come!)* started to merge with the person being given the commands *(you)*. Take a close look:
+But then, the command *(come!)* started to merge with the person being given the commands *(you / `þú`)*. Take a close look:
 
 | English | Old Icelandic | Modern Icelandic |
 | --- | --- | --- |
@@ -50,4 +50,22 @@ As you see, if words are **long** in the `past tense` (they end in `-aði`) they
 
 #### Ordering multiple people
 
-Giving orders to **multiple** people is way easier, you just use the same 
+<!-- Note: Þetta ætti að koma miklu seinna í kennslunni -->
+
+Giving orders to **multiple** people is much easier. See if you can see the pattern:
+
+| Verb | Normal sentence | 👮 Order! (option 1) | 👮 Order! (option 2) |
+| --- | --- | --- | --- |
+| að borða | **Þið borðið** mikið. | **Borðið þið** meira! | **Borðið** meira! |
+| að fara | **Þið farið** aldrei í sund. | **Farið þið** í sund! | **Farið** í sund! |
+| að sjá | **Þið sjáið** ekki vel. | **Sjáið þið** fuglana! | **Sjáið** fuglana! |
+
+As you can see, the same form is used as in normal sentences (`present second person plural`) except the order is reversed.
+
+You can drop the `þið` when giving orders. It doesn't really matter if you use it or not, but it is more common to drop the `þið`.
+
+Of course, irregularities do exist:
+
+| Verb | Normal sentence | 👮 Order! (option 1) | 👮 Order! (option 2) |
+| --- | --- | --- | --- |
+| að vera | **Þið eruð** mjög hávaxnir. | **Verið þið** tilbúnir! | **Verið** tilbúnir! |
