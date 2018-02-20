@@ -24,22 +24,22 @@ To give orders to **one** person you can either:
 
 1. Remove the `-a` ending and add a **`-ðu`/`-du`/`-tu`**
 <pre>
-`að vera`   →  `ver þú`    →  **`vertu!`**   *[be!]*
-`að hlaupa` →  `hlaup þú`  →  **`hlauptu!`** *[run!]*
-`að koma`   →  `kom þú`    →  **`komdu!`**   *[come!]*
-`að segja`  →  `seg þú`    →  **`segðu!`**   *[say!]*
-`að fara`   →  `far þú`    →  **`farðu!`**   *[go!]*
+að vera   →  ver þú    →  <b>vertu!</b>   <i>[be!]</i>
+að hlaupa →  hlaup þú  →  <b>hlauptu!</b> <i>[run!]</i>
+að koma   →  kom þú    →  <b>komdu!</b>   <i>[come!]</i>
+að segja  →  seg þú    →  <b>segðu!</b>   <i>[say!]</i>
+að fara   →  far þú    →  <b>farðu!</b>   <i>[go!]</i>
 </pre>
 2. Just add a **`-ðu`**
 <pre>
-`að tala`   →  `tala þú`   →  **`talaðu!`**  *[speak!]*
-`að borða`  →  `borða þú`  →  **`borðaðu!`** *[eat!]*
-`að hoppa`  →  `hoppa þú`  →  **`hoppaðu!`** *[jump!]*
-`að elska`  →  `elska þú`  →  **`elskaðu!`** *[love!]*
+að tala   →  tala þú   →  <b>talaðu!</b>  <i>[speak!]</i>
+að borða  →  borða þú  →  <b>borðaðu!</b> <i>[eat!]</i>
+að hoppa  →  hoppa þú  →  <b>hoppaðu!</b> <i>[jump!]</i>
+að elska  →  elska þú  →  <b>elskaðu!</b> <i>[love!]</i>
 </pre>
 3. (But of course there exist some rare exceptions)
 <pre>
-`að ganga`  → `gakk þú`   → **`gakktu!`**  *[walk!]*
+að ganga  → gakk þú   → <b>gakktu!</b>  <i>[walk!]</i>
 </pre>
 
 As you can see, the verbs are **longer** if they choose option 2. To know wich option to pick, look at how the verbs behave in `past singular first person`:
